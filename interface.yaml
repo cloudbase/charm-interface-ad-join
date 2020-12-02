@@ -1,0 +1,13 @@
+name: ad-join
+summary: Provides interface for Active Directory
+maintainer: Gabriel Adrian Samfira <gsamfira@cloudbasesolutions.com>
+ignore:
+  - 'unit_tests'
+  - '.stestr.conf'
+  - 'test-requirements.txt'
+  - 'tox.ini'
+  - '.gitignore'
+  - '.travis.yml'
+  - '.zuul.yaml'
+  - '.tox'
+  - '.git'
